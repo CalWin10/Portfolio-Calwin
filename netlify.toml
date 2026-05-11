@@ -4,9 +4,3 @@
 
 [build.environment]
   NODE_VERSION = "18"
-
-[[plugins]]
-  package = "@netlify/plugin-vite"
-
-[context.production]
-  command = "npm run build"
