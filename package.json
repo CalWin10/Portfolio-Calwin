@@ -17,9 +17,7 @@
     "react-dom": "^19.2.5",
     "react-router-dom": "^7.14.2",
     "styled-components": "^6.4.1",
-    "three": "^0.184.0",
-    "tsparticles": "^3.9.1",
-    "vanta": "^0.5.24"
+    "tsparticles": "^3.9.1"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^6.0.1",
